@@ -1,13 +1,9 @@
 ### Hello guys ! 👋
 
-- 🔭 I’m currently working as a back-end developer 
-<!-- - 🌱 I’m currently learning  -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me:  -->
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm street football football player, and I teach people how to do crazy tricks with a ball on youtube
+🔭 I’m currently working as a back-end developer with Django Rest and Python
+😄 Pronouns: he/him
+
+Fun fact: I'm street soccer football player, and I teach people how to do crazy tricks with a ball on youtube.
 
 <div align="center">
   <a href="https://github.com/vinithecreator">
