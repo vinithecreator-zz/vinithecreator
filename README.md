@@ -1,7 +1,6 @@
 ### Hello guys ! 👋
 
 🔭 I’m currently working as a back-end developer with Django Rest and Python
-😄 Pronouns: he/him
 
 Fun fact: I'm street soccer football player, and I teach people how to do crazy tricks with a ball on youtube.
 
