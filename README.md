@@ -1,9 +1,9 @@
 <p align="center">Father, Friend and a Gardener ! 👋</a>
 
 🔭 I’m currently working as a back-end developer with Django Rest and Python.</br>
-👌  My main goal is create something huge, something that can break boundaries and connect people.
+👌  My main goal is create something who can break boundaries and connect people.
 
-📸 Fun fact: I'm Street Soccer Player, and I teach people how to do crazy tricks with a ball on <a href="https://www.youtube.com/c/FutebolDeRuaHD/videos">Youtube</a>.
+📸 Fun fact: I'm Pro Street Soccer Player, and I teach people how to do crazy tricks with a ball on <a href="https://www.youtube.com/c/FutebolDeRuaHD/videos">Youtube</a>.
 
 <div align="center">
   <a href="https://github.com/vinithecreator">
